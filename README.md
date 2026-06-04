@@ -4,8 +4,20 @@ Mini site for the "Efficient and Reliable Neuro-Symbolic AI" course for PhD stud
 
 ## When
 
-June 3rd-8th, from 10.30am to 12.30am and 13.30 to 15.30 in room Garda (Povo1, second floor).
-June 9th, from 10.30am to 12.30am and 13.30 to 15.30 in room Garda (Povo1, second floor).
+
+
+
+| Date | Time Slots |
+|------|------------|
+| 03/06/2026 | 10:30 a.m. – 12:30 p.m.; 1:30 p.m. – 3:30 p.m. |
+| 04/06/2026 | 10:30 a.m. – 12:30 p.m.; 1:30 p.m. – 3:30 p.m. |
+| 05/06/2026 | 10:30 a.m. – 12:30 p.m.; 1:30 p.m. – 3:30 p.m. |
+| 08/06/2026 | 8:30 a.m. – 10:30 a.m.; 1:30 p.m. – 3:30 p.m. |
+| 09/06/2026 | 1:30 p.m. – 5:30 p.m. |
+
+
+All session will be in room Garda (Povo1, second floor).
+
 
 ## Lectures
 
