@@ -31,6 +31,12 @@ All session will be in room Garda (Povo1, second floor).
 - lecture #3 [04/06/26 morning]
    - slides: [Algebraic model counting and circuits](https://github.com/arranger1044/phd-trento-nesy-26/blob/main/slides/lecture3.pdf)
    - companion [paper on PCs](https://yoojungchoi.github.io/files/ProbCirc20.pdf)
+- lecture #4 [05/06/26]
+   - slides: [Advanced Probabilistic Reasoning with Circuits (Part 1)](https://github.com/arranger1044/phd-trento-nesy-26/blob/main/slides/lecture4.pdf)
+- lecture #4 [05/06/26]
+   - slides: [Advanced Probabilistic Reasoning with Circuits](https://github.com/arranger1044/phd-trento-nesy-26/blob/main/slides/lecture4.pdf)
+- lecture #5 [05/06/26]
+   - slides: [A Gentle Introduction to Reasoning Shortcuts](https://github.com/arranger1044/phd-trento-nesy-26/blob/main/slides/slides-rss-disi-nesy-ai.pdf)
 
 
 ## Exam: critical presentation
